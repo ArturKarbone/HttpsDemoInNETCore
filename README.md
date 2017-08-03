@@ -1,6 +1,6 @@
 ﻿# Https in .NET Core
 
-This is a demo repository for my blog post.
+This is a demo repository for my [blog post](http://craftsmanatwork.guru/-net-core-playing-with-https/).
 
 ## Create Certificate
 
